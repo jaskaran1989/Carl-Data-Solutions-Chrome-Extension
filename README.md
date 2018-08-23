@@ -14,3 +14,6 @@ follow steps in this link https://developer.chrome.com/webstore/publish
 
 ```
 
+# Gif showing how to find and add this extesnion to your Chrome browser
+
+![alt text](https://github.com/jaskaran1989/Chrome-Extension/blob/master/screen.gif)
