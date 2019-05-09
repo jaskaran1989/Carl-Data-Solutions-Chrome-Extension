@@ -1,6 +1,6 @@
 # Chrome-Extension
 
-I am working a Software Engineer at Carl Data Solutions (http://www.carlsolutions.com/) so I thought why don't make a chrome extension to access all Social pages of my company so I come up with this extension.
+I am working as a Software Engineer at Carl Data Solutions (http://www.carlsolutions.com/) so I thought why don't make a chrome extension to access all Social pages of my company which is helpful for maeketing people so I come up with this extension.
 
 ## Tech I used
 1. HTML
